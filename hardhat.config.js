@@ -13,4 +13,4 @@ module.exports = {
       accounts: [RINKEBY_PRIVATE_KEY],
     },
   },
-};
+}; 
