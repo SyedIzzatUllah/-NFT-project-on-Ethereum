@@ -13,6 +13,7 @@ so nftContract here is a factory for instances of our GameItem contract.
 
   // print the address of the deployed contract
   console.log("NFT Contract Address:", deployedNFTContract.address);
+  
 }
 
 // Call the main function and catch if there is any error
