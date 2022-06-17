@@ -1,6 +1,7 @@
 // Import ethers from Hardhat package
 const { ethers } = require("hardhat");
 
+
 async function main() {      
   /*
 A ContractFactory in ethers.js is an abstraction used to deploy new smart contracts,
