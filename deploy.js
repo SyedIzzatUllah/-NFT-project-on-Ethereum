@@ -9,7 +9,7 @@ so nftContract here is a factory for instances of our GameItem contract.
 */
   const nftContract = await ethers.getContractFactory("GameItem");
 
-  // here we deploy the contract
+  // here we deploy the contract   
   const deployedNFTContract = await nftContract.deploy();
 
   // print the address of the deployed contract
