@@ -17,6 +17,7 @@ so nftContract here is a factory for instances of our GameItem contract.
   
 }
 
+
 // Call the main function and catch if there is any error
 main()
   .then(() => process.exit(0))
@@ -25,3 +26,4 @@ main()
     process.exit(1);
   }); 
   
+ 
