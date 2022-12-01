@@ -12,7 +12,7 @@ contract Greeter {
     }
 
     function greet() public view returns (string memory) {
-        return greeting; 
+        return greeting;  
     }      
 
     function setGreeting(string memory _greeting) public {
