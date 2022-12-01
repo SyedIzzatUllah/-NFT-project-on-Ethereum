@@ -2,7 +2,7 @@
 Deploying a NFT project on Ethereum
 
 
-# Prerequisites  
+# Prerequisites  for env
 
 - Set up a Metamask 
 - Check if your computer has Node.js. 
