@@ -10,7 +10,7 @@ contract GameItem is ERC721 {
  
     constructor() ERC721("GameItem", "ITM") {
         // mint an NFT to yourself
-        _mint(msg.sender, 1);   
+        _mint(msg.sender, 1);
     } 
 }
  
